@@ -11,3 +11,5 @@ This is a Meals To Go App, based on a react native tutorial
 - git
 - expo (https://docs.expo.io/)
 - yoga (https://yogalayout.com/)
+
+### Start developing
