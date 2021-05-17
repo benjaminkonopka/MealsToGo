@@ -29,4 +29,4 @@ yarn lint
 
 to see all the errors/warnings
 
-### Start developing
+- react native paper (https://callstack.github.io/react-native-paper/) for default components
