@@ -22,11 +22,11 @@ export const RestaurantInfoCard = ({ restaurant = {} }) => {
     name = "Some Restaurant",
     icon = "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
     photos = ["https://source.unsplash.com/random"],
-    adress = "Zähringerstraße 338b, 79108 Freiburg",
+    adress = "",
     isOpenNow = true,
     rating = 4,
     isClosedTemporarily = true,
-    placeId = 2,
+    placeId,
   } = restaurant;
   // TODO: understand this code below
   const ratingArray = Array.from(Array(Math.floor(rating)));
